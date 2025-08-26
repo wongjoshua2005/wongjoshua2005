@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Joshua Wong, and I am a computer science student at the University of Maryland interested in exploring all areas of computer science!
+
+- 🔭 I’m currently working on a [Battleship CLI Game](https://github.com/wongjoshua2005/Battleship-Game) in Java to strengthen my understanding of game logic, data structures, and algorithms.
+- 🌱 I'm currently learning advanced programming concepts in computer science and exploring areas such as web development and game development.
+- 👯 I’m looking to collaborate on open source projects or games that involve problem-solving and clean code.
+
+
 <!--
 **wongjoshua2005/wongjoshua2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
